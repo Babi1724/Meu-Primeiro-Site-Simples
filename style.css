@@ -1,0 +1,16 @@
+body{
+    background-repeat: no-repeat;
+    background-size:cover ;
+    text-align: center;
+    background-image: url("https://st.depositphotos.com/2056097/4743/i/450/depositphotos_47436547-stock-photo-rainbow-of-colors-colorful-ink.jpg");
+}
+h1 {
+    color: rgb(66, 212, 181);
+    font-size: 25px; 
+    border-color:red;
+    border-width: 2px; 
+    
+  }
+  form{
+      color: rgb(19, 11, 131);
+  }
