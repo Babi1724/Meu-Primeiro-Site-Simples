@@ -1,4 +1,17 @@
-# Meu-Primeiro-Site-Simples
-Este é o meu Primeiro projeto que eu criei no meu curso técnico de desenvolvimento de sistemas no SENAI, é um site simples que com o tempo eu irei ajustar 
+# 🌆 Descubra Londres
 
-Este projeto que eu criei foi no meu curso técnico do Senai de desenvolvimento de sistema. Eu fiz este site com intenção de mostrar algumas curiosidades de Londres, pois eu sempre fui apaixonada por londres, mas com o tempo eu vou ajustar para ficar melhor.
+Um site simples e informativo sobre a cidade de **Londres**, criado com **HTML** e **CSS puro**. O objetivo é apresentar a história, curiosidades e os principais pontos turísticos da capital inglesa de forma clara, leve e visualmente agradável.
+
+---
+
+## 🧭 Funcionalidades
+
+- Página inicial com título e descrição do site
+- Navegação por seções: História, Curiosidades, Pontos Turísticos e Contato
+- Layout responsivo (mobile-friendly)
+- Design limpo e moderno usando apenas HTML + CSS
+- Estrutura fácil de expandir com mais conteúdos ou imagens
+
+---
+
+
